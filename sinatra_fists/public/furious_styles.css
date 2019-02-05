@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: rgb(18, 227, 181);
+
+}
+h1 {
+  text-align: center;
+}
+.commentator{
+text-align: center;
+font-size: 24pt;
+color: rgba(92, 19, 227, 0.91) ;
+}
+
+#result{
+text-align: center;
+font-size: 32pt;
+color: rgb(24, 230, 217);
+}
