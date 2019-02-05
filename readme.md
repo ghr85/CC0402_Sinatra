@@ -16,6 +16,7 @@ There are numerous moving parts in this now
 * Read the instructions again...yes. Because how much time will you waste if you misinterpret.
 * Create folder layout and headers
 * Decide on what logic you'll need, plan classes, attributes, methods, tests
+* The controller defines the routes that will be taken upon HTTP method
 * Require Sinatra and relevant tools in your controller file
 * Create your specs file for testing model logic - remember to cover negative cases
 * Create your logic file in model folder - keep your variable names tight
@@ -23,6 +24,19 @@ There are numerous moving parts in this now
 * Create your view folder
 * Layout is your template housing for all other page eventualities
 * Create other page eventualities
+* Style it up with CSS and polish
 
 
 ## Notes
+
+
+## Files
+* brief.md - solo lab assignment given during class
+* controller.rb - Ruby MVC controller assigning routes
+* paper_rock_scissors.rb - Ruby file determining game logic
+* paper_rock_scissors_spec.rb - TDD Test specs for above
+* home.erb - Embedded Ruby file for homepage
+* layout.erb - Embedded Ruby file for overall template
+* results.erb - Embedded Ruby file for results
+* rules.erb - Embedded Ruby file for rules
+* furious_styles.css - CSS Stylesheet for app
