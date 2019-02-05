@@ -40,3 +40,5 @@ There are numerous moving parts in this now
 * results.erb - Embedded Ruby file for results
 * rules.erb - Embedded Ruby file for rules
 * furious_styles.css - CSS Stylesheet for app
+
+> "Give me the gun Trey"
